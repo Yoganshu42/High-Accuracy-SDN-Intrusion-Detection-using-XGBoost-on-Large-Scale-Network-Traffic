@@ -36,6 +36,4 @@ An intelligent Intrusion Detection System (IDS) built using XGBoost to secure So
 - *Accuracy*: 99.8%
 - *Precision, Recall, F1-Score*: Computed per class
 - *Confusion Matrix*: Displayed using heatmap
-- *ROC Curve*: Plotted for multi-class evaluation
-
 ---
