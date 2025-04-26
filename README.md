@@ -25,7 +25,7 @@ An intelligent Intrusion Detection System (IDS) built using XGBoost to secure So
 
 ## 📁 Dataset
 
-- Sourced from [Kaggle](https://www.kaggle.com/)  
+- Sourced from [Kaggle] https://www.kaggle.com/datasets/subhajournal/sdn-intrusion-detection  
 - Preprocessed features: normalization, missing value handling, label encoding
 - Feature reduction using correlation-based filtering and importance ranking
 
